@@ -1,7 +1,7 @@
 name: joshmitro
 favicon: null
-layout_spectrum: 0.3710967742372304
-typography_spectrum: 0.03838066942989826
+layout_spectrum: 0.31524
+typography_spectrum: 0.24827
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.3454703481402248
-  lightness: 0.5827226676046848
-  saturation: 0.1004220312461257
-  rhythmicContrast: 0.1022497802041471
+  brandStrength: 0.3125
+  lightness: 0.5625
+  saturation: 0.4375
+  rhythmicContrast: 0.5
 purpose: []
