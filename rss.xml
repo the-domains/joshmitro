@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[joshmitro]]></title>
+        <description><![CDATA[joshmitro]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 02 Dec 2015 00:22:08 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The sum of your life. Each day is the sum of hundreds of moments. Waking up. Rolling out of bed and into the shower. Searching for your keys. Forgetting the name of the person you met last night. These moments — some mundane, some memorable — define our lives and shape our perspective on the world around us. Imagine at the end of your life, you had to relive each of these individual moments as a single moment — grouped by common qualities. Neuroscientist and writer, David Eagleman, posed this thought in his work Sum: Forty Tales from the Afterlives. Here it is, in video and text:</p>]]></description>
+            <link>undefinedthe-sum-of-your-life-each-day-is-the-sum-of-hundreds-of-mom/index.html</link>
+            <guid isPermaLink="false">5ded19ac-483c-49fd-98bf-4770da0f2273</guid>
+            <pubDate>Wed, 02 Dec 2015 00:21:52 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
