@@ -1,0 +1,28 @@
+name: joshmitro
+favicon: null
+layout_spectrum: 0.3710967742372304
+typography_spectrum: 0.03838066942989826
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.3454703481402248
+  lightness: 0.5827226676046848
+  saturation: 0.1004220312461257
+  rhythmicContrast: 0.1022497802041471
+purpose: []
